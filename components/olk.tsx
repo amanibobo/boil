@@ -18,7 +18,6 @@ export default function Component() {
                   autoPlay
                   muted
                   controls
-                  alt="Prompt Variables Interface"
                   className="w-full h-80 object-cover"
                 />
               </div>
@@ -36,7 +35,6 @@ export default function Component() {
                   autoPlay
                   muted
                   controls
-                  alt="Fine-Tuning Interface"
                   className="w-full h-80 object-cover"
                 />
               </div>
@@ -54,7 +52,6 @@ export default function Component() {
                   autoPlay
                   muted
                   controls
-                  alt="Group Components Interface"
                   className="w-full h-80 object-cover"
                 />
               </div>
@@ -72,7 +69,6 @@ export default function Component() {
                   autoPlay
                   muted
                   controls
-                  alt="Custom Components Interface"
                   className="w-full h-80 object-cover"
                 />
               </div>
